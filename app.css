@@ -1,0 +1,22 @@
+
+h3 {
+	background: lightgreen;
+	color: mediumpurple;
+}
+
+
+footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: lightgray;
+	color: white;
+	text-align: center;
+	height: 50px;
+	margin-bottom: 0;
+}
+h2 {
+	background: white ;
+	color: maroon;
+}
